@@ -1,16 +1,23 @@
-# truetool
+# [Archived] truetool
 
 A easy tool for frequently used TrueNAS SCALE CLI utilities.
 
 Please before using this tool, [read this note](https://truecharts.org/docs/manual/SCALE%20Apps/Quick-Start%20Guides/Important-MUST-READ)
 
 ## Table of contents:
-* [Synopsis](#synopsis)
-* [Arguments](#arguments)
-* [How to Install](#how-to-install)
-* [How to Update](#how-to-update)
-* [Creating a Cron Job](#creating-a-cron-job)
-* [Additional Information](#additional-information)
+- [\[Archived\] truetool](#archived-truetool)
+  - [Table of contents:](#table-of-contents)
+  - [Synopsis](#synopsis)
+  - [Arguments](#arguments)
+  - [How to Install](#how-to-install)
+    - [Choose a folder](#choose-a-folder)
+        - [New dataset](#new-dataset)
+        - [Root folder](#root-folder)
+    - [Open a Terminal](#open-a-terminal)
+  - [How to Update](#how-to-update)
+  - [Creating a Cron Job](#creating-a-cron-job)
+    - [Additional Information](#additional-information)
+      - [TrueTool vs HeavyScript](#truetool-vs-heavyscript)
 
 <br>
 
